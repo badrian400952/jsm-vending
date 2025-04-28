@@ -1,0 +1,265 @@
+{
+  "foods": [
+    {
+      "id": "1",
+      "name": "AQUA Mineral Water",
+      "price": 3000,
+      "stock": 10,
+      "image": "https://i.pinimg.com/736x/86/4f/b7/864fb76a67b876647ec3cd01c1d04641.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Coca-Cola",
+      "price": 8000,
+      "stock": 10,
+      "image": "https://media.istockphoto.com/id/458464735/photo/coke.jpg?s=612x612&w=0&k=20&c=YbmiazMmY0DkWh_W8T0pBkOgai2k62hGF1TJn9EC5W0="
+    },
+    {
+      "id": "5",
+      "name": "Iced Tea",
+      "price": 7000,
+      "stock": 10,
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//82/MTA-2643210/sosro_sosro-teh-botol-jasmine-minuman-teh--450-ml-_full02.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Orange Juice",
+      "price": 9000,
+      "stock": 10,
+      "image": "https://rita.com.vn/images/uploads/300ml%20Orange%20Juice%20Glass%20bottle.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Milkshake",
+      "price": 15000,
+      "stock": 8,
+      "image": "https://mcgrocer.com/cdn/shop/files/5e6c18036a29613f7ffc8b92acfa4107.jpg?v=1739349936"
+    },
+    {
+      "id": "3",
+      "name": "Potato Chips Lays",
+      "price": 10000,
+      "stock": 91,
+      "image": "https://i.pinimg.com/736x/62/88/d0/6288d08f74f0826429bc77d875a9461e.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Beng Beng",
+      "price": 12000,
+      "stock": 10,
+      "image": "https://warindo.de/wp-content/uploads/2021/01/Beng-Beng-25g.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Popcorn",
+      "price": 8000,
+      "stock": 10,
+      "image": "https://image.astronauts.cloud/product-images/2025/2/kdsmentegaasin_8e346483-d751-4372-a4c8-3163405ed2d6_900x900.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Cookies",
+      "price": 11000,
+      "stock": 7,
+      "image": "https://ueeshop.ly200-cdn.com/u_file/UPAX/UPAX674/2306/products/09/6e3d55f014.jpg?x-oss-process=image/resize,m_lfit,h_500,w_500"
+    },
+    {
+      "id": "10",
+      "name": "Peanut Snack",
+      "price": 9500,
+      "stock": 6,
+      "image": "https://files.ekmcdn.com/chrisf/images/pip-nut-peanut-butter-no-palm-oil-large-30g-sachets-chose-below-single-sachet-89p-2201-p.jpg"
+    },
+    {
+      "id": "fxzn5m62",
+      "name": "Chocolatos ",
+      "price": "9000",
+      "stock": 8,
+      "image": "https://api.duniamurah.com/assets/collections/catalogue/img/6100d5590186e.jpg"
+    },
+    {
+      "id": "hvaf2s3i",
+      "name": "Sprite",
+      "price": "8000",
+      "stock": 9,
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//104/MTA-23994842/sprite_sprite-minuman-soda-250-ml_full01.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "0": {
+        "id": "3",
+        "name": "Potato Chips Lays",
+        "price": 10000,
+        "stock": 98,
+        "image": "https://i.pinimg.com/736x/62/88/d0/6288d08f74f0826429bc77d875a9461e.jpg"
+      },
+      "id": "b9d8"
+    },
+    {
+      "0": {
+        "id": "3",
+        "name": "Potato Chips Lays",
+        "price": 10000,
+        "stock": 97,
+        "image": "https://i.pinimg.com/736x/62/88/d0/6288d08f74f0826429bc77d875a9461e.jpg"
+      },
+      "id": "41f7"
+    },
+    {
+      "0": {
+        "id": "3",
+        "name": "Potato Chips Lays",
+        "price": 10000,
+        "stock": 96,
+        "image": "https://i.pinimg.com/736x/62/88/d0/6288d08f74f0826429bc77d875a9461e.jpg"
+      },
+      "id": "a094"
+    },
+    {
+      "0": {
+        "id": "3",
+        "name": "Potato Chips Lays",
+        "price": 10000,
+        "stock": 95,
+        "image": "https://i.pinimg.com/736x/62/88/d0/6288d08f74f0826429bc77d875a9461e.jpg"
+      },
+      "id": "9a6b"
+    },
+    {
+      "0": {
+        "id": "3",
+        "name": "Potato Chips Lays",
+        "price": 10000,
+        "stock": 94,
+        "image": "https://i.pinimg.com/736x/62/88/d0/6288d08f74f0826429bc77d875a9461e.jpg"
+      },
+      "id": "4597"
+    },
+    {
+      "0": {
+        "id": "3",
+        "name": "Potato Chips Lays",
+        "price": 10000,
+        "stock": 93,
+        "image": "https://i.pinimg.com/736x/62/88/d0/6288d08f74f0826429bc77d875a9461e.jpg"
+      },
+      "1": {
+        "id": "10",
+        "name": "Peanut Snack",
+        "price": 9500,
+        "stock": 8,
+        "image": "https://files.ekmcdn.com/chrisf/images/pip-nut-peanut-butter-no-palm-oil-large-30g-sachets-chose-below-single-sachet-89p-2201-p.jpg"
+      },
+      "id": "1de1"
+    },
+    {
+      "0": {
+        "id": "3",
+        "name": "Potato Chips Lays",
+        "price": 10000,
+        "stock": 92,
+        "image": "https://i.pinimg.com/736x/62/88/d0/6288d08f74f0826429bc77d875a9461e.jpg"
+      },
+      "1": {
+        "id": "7",
+        "name": "Milkshake",
+        "price": 15000,
+        "stock": 10,
+        "image": "https://mcgrocer.com/cdn/shop/files/5e6c18036a29613f7ffc8b92acfa4107.jpg?v=1739349936"
+      },
+      "2": {
+        "id": "7",
+        "name": "Milkshake",
+        "price": 15000,
+        "stock": 10,
+        "image": "https://mcgrocer.com/cdn/shop/files/5e6c18036a29613f7ffc8b92acfa4107.jpg?v=1739349936"
+      },
+      "id": "48c8"
+    },
+    {
+      "0": {
+        "id": "hvaf2s3i",
+        "name": "Sprite",
+        "price": "8000",
+        "stock": "12",
+        "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//104/MTA-23994842/sprite_sprite-minuman-soda-250-ml_full01.jpg"
+      },
+      "1": {
+        "id": "fxzn5m62",
+        "name": "Chocolatos ",
+        "price": "9000",
+        "stock": "10",
+        "image": "https://api.duniamurah.com/assets/collections/catalogue/img/6100d5590186e.jpg"
+      },
+      "2": {
+        "id": "10",
+        "name": "Peanut Snack",
+        "price": 9500,
+        "stock": 7,
+        "image": "https://files.ekmcdn.com/chrisf/images/pip-nut-peanut-butter-no-palm-oil-large-30g-sachets-chose-below-single-sachet-89p-2201-p.jpg"
+      },
+      "3": {
+        "id": "hvaf2s3i",
+        "name": "Sprite",
+        "price": "8000",
+        "stock": "12",
+        "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//104/MTA-23994842/sprite_sprite-minuman-soda-250-ml_full01.jpg"
+      },
+      "id": "608c"
+    },
+    {
+      "0": {
+        "id": "fxzn5m62",
+        "name": "Chocolatos ",
+        "price": "9000",
+        "stock": 9,
+        "image": "https://api.duniamurah.com/assets/collections/catalogue/img/6100d5590186e.jpg"
+      },
+      "1": {
+        "id": "hvaf2s3i",
+        "name": "Sprite",
+        "price": "8000",
+        "stock": 10,
+        "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//104/MTA-23994842/sprite_sprite-minuman-soda-250-ml_full01.jpg"
+      },
+      "id": "6f31"
+    },
+    {
+      "0": {
+        "id": "9",
+        "name": "Cookies",
+        "price": 11000,
+        "stock": 9,
+        "image": "https://ueeshop.ly200-cdn.com/u_file/UPAX/UPAX674/2306/products/09/6e3d55f014.jpg?x-oss-process=image/resize,m_lfit,h_500,w_500"
+      },
+      "1": {
+        "id": "9",
+        "name": "Cookies",
+        "price": 11000,
+        "stock": 9,
+        "image": "https://ueeshop.ly200-cdn.com/u_file/UPAX/UPAX674/2306/products/09/6e3d55f014.jpg?x-oss-process=image/resize,m_lfit,h_500,w_500"
+      },
+      "id": "e567"
+    }
+  ],
+  "user": [
+    {
+      "id": "a968",
+      "username": "admin",
+      "password": "admin01"
+    },
+    {
+      "id": "9e11",
+      "username": "dede",
+      "email": "dede@gmail.com",
+      "password": "dede01"
+    },
+    {
+      "id": "91d5",
+      "username": "badri",
+      "email": "badri@gmail.com",
+      "password": "badri01"
+    }
+  ]
+}
